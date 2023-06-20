@@ -1,0 +1,6 @@
+Interact with server via already upped RCON on 25575 port with is not forwarded - docker exec -i server rcon-cli
+
+
+
+
+Info: https://github.com/itzg/docker-minecraft-server/tree/master
